@@ -1,0 +1,33 @@
+.new-color-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 400px;
+}
+
+.new-color-form h2 {
+    text-align: center;
+}
+
+.new-color-form input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.new-color-form button {
+    padding: 5px 10px;
+    background-color: #75de77;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.new-color-form button:hover {
+    background-color: #069644f9;
+}

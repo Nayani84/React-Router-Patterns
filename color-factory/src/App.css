@@ -1,0 +1,25 @@
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+header a {
+  font-size: 1.2em;
+  display: block;
+  margin-top: 5px;
+}
+
+main {
+  text-align: center;
+  padding: 20px;
+}
+
+main h2 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}

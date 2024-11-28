@@ -1,0 +1,12 @@
+.color-container {
+    height: 100vh;
+    text-align: center;
+    padding-top: 20px;
+    color: #fff;
+}
+
+.color-container-link {
+    color: white;
+    text-decoration: underline;
+    font-size: 2rem;
+}
